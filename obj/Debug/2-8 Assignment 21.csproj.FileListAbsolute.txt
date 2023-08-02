@@ -1,0 +1,7 @@
+D:\exercises\2-8\2-8 Assignment 21\2-8 Assignment 21\bin\Debug\2-8 Assignment 21.exe.config
+D:\exercises\2-8\2-8 Assignment 21\2-8 Assignment 21\bin\Debug\2-8 Assignment 21.exe
+D:\exercises\2-8\2-8 Assignment 21\2-8 Assignment 21\bin\Debug\2-8 Assignment 21.pdb
+D:\exercises\2-8\2-8 Assignment 21\2-8 Assignment 21\obj\Debug\2-8 Assignment 21.csproj.AssemblyReference.cache
+D:\exercises\2-8\2-8 Assignment 21\2-8 Assignment 21\obj\Debug\2-8 Assignment 21.csproj.CoreCompileInputs.cache
+D:\exercises\2-8\2-8 Assignment 21\2-8 Assignment 21\obj\Debug\2-8 Assignment 21.exe
+D:\exercises\2-8\2-8 Assignment 21\2-8 Assignment 21\obj\Debug\2-8 Assignment 21.pdb
